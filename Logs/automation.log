@@ -33,3 +33,31 @@
 03/31/2022 01:25:55 PM: INFO: **********************************Testing test_login Page***********************************
 03/31/2022 01:40:22 PM: INFO: **********************************Testing test_login Page***********************************
 03/31/2022 02:00:21 PM: INFO: **********************************Testing test_login Page***********************************
+05/21/2022 06:59:37 PM: INFO: 
+
+05/21/2022 06:59:37 PM: INFO: ====== WebDriver manager ======
+05/21/2022 06:59:41 PM: INFO: Current google-chrome version is 101.0.4951
+05/21/2022 06:59:41 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/21/2022 06:59:41 PM: INFO: There is no [win32] chromedriver for browser 101.0.4951 in cache
+05/21/2022 06:59:41 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05/21/2022 06:59:42 PM: INFO: Driver has been saved in cache [C:\Users\kheml\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05/21/2022 06:59:48 PM: INFO: **********************************Testing homepage title***********************************
+05/21/2022 06:59:50 PM: INFO: 
+
+05/21/2022 06:59:50 PM: INFO: ====== WebDriver manager ======
+05/21/2022 06:59:53 PM: INFO: Current google-chrome version is 101.0.4951
+05/21/2022 06:59:53 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/21/2022 06:59:53 PM: INFO: Driver [C:\Users\kheml\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/21/2022 06:59:57 PM: INFO: **********************************Testing test_login Page***********************************
+05/21/2022 07:02:34 PM: INFO: 
+
+05/21/2022 07:02:34 PM: INFO: ====== WebDriver manager ======
+05/21/2022 07:02:37 PM: INFO: Current google-chrome version is 101.0.4951
+05/21/2022 07:02:37 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/21/2022 07:02:38 PM: INFO: Driver [C:\Users\kheml\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/21/2022 07:02:41 PM: INFO: 
+
+05/21/2022 07:02:41 PM: INFO: ====== WebDriver manager ======
+05/21/2022 07:02:44 PM: INFO: Current google-chrome version is 101.0.4951
+05/21/2022 07:02:44 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/21/2022 07:02:44 PM: INFO: Driver [C:\Users\kheml\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
